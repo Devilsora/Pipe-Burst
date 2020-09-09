@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WaterDrip
+  - Floor
+  - Ladder
+  - Window
+  - ItemBox
+  - WallCollider
+  - WaterOpening
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ceiling
+  - Ladder
+  - Player
+  - PostProcessing
+  - WorldCol
+  - TilemapFloor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 118513319
+    locked: 0
+  - name: Midground
+    uniqueID: 122923667
+    locked: 0
+  - name: Items
+    uniqueID: 2619846873
+    locked: 0
+  - name: Front
+    uniqueID: 3316861425
+    locked: 0
+  - name: FrontEffects
+    uniqueID: 2202472923
+    locked: 0
